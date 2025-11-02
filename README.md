@@ -25,7 +25,6 @@ The project validates both **positive** and **negative** user journeys on the An
 | **BDD / Cucumber Framework** | Enables writing tests in Gherkin syntax |
 | **Gherkin Syntax** | Defines behavior in a structured “Given–When–Then” format |
 | **Appium** | Mobile automation engine used by Katalon for Android execution |
-| **Appium** | Mobile automation engine used by Katalon for Android execution |
 | **Saucedemo APK** | The target Android application under test |
 
 ## ⚙️ Setup Instructions
