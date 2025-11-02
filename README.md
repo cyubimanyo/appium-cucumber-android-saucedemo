@@ -1,9 +1,11 @@
-# 📱 Saucedemo Android Automation using Katalon Studio 📱
+# 📱 Saucedemo Android Automation using Katalon Studio
 
-This repository contains automated test scripts for the **Saucedemo Mobile Application**, created using **Katalon Studio**.  
-The automation project validates both **positive** and **negative** scenarios for key user flows in the Android app.
+This repository contains automated test scripts for the **Saucedemo Mobile Application**, created using **Katalon Studio** with the **BDD (Behavior-Driven Development)** approach.  
+Test cases are written in **Gherkin syntax**, making them human-readable and easy to understand for both technical and non-technical stakeholders.
 
-## 📱 Project Overview
+The project validates both **positive** and **negative** user journeys on the Android version of the Saucedemo app.
+
+## Project Overview
 
 **Application Under Test (AUT):** [Saucedemo Mobile App](https://www.saucedemo.com/)  
 **Automation Tool:** [Katalon Studio](https://katalon.com/)  
@@ -20,6 +22,9 @@ The automation project validates both **positive** and **negative** scenarios fo
 | Tool / Tech | Description |
 |--------------|-------------|
 | **Katalon Studio** | Automation framework used to build, execute, and maintain test cases |
+| **BDD / Cucumber Framework** | Enables writing tests in Gherkin syntax |
+| **Gherkin Syntax** | Defines behavior in a structured “Given–When–Then” format |
+| **Appium** | Mobile automation engine used by Katalon for Android execution |
 | **Appium** | Mobile automation engine used by Katalon for Android execution |
 | **Saucedemo APK** | The target Android application under test |
 
