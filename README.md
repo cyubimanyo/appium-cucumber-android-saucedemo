@@ -1,4 +1,4 @@
-# 📱 Saucedemo Android Automation using Katalon Studio
+# 📱 Saucedemo Mobile Automation using Katalon Studio
 
 This repository contains automated test scripts for the **Saucedemo Mobile Application**, created using **Katalon Studio** with the **BDD (Behavior-Driven Development)** approach.  
 Test cases are written in **Gherkin syntax**, making them human-readable and easy to understand for both technical and non-technical stakeholders.
